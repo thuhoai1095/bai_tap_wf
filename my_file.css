@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial
+}
+span.thick{
+    font-weight: bold;
+}
+span.navy{
+    color: #00aeef;
+}
+span.blue{
+    color: blue;
+}
+p#font-size{
+    font-size: 13px;
+}

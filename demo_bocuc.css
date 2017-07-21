@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+#header{
+    background: #ff663c;
+    height: 70px;
+    width: 100%;
+}
+#main{
+    background: #4aa1ff;
+    height: 300px;
+    width: 70%;
+    float: left;
+}
+#sizebar{
+    background: #67ff4b;
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+#footer{
+    background: #f41eff;
+    height: 70px;
+    width: 100%;
+    clear: both;
+}

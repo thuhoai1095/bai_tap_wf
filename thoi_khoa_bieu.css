@@ -1,0 +1,36 @@
+tr.row1{
+    color: white;
+    border: 0px;
+}
+.row2{
+    border-color: white;
+}
+.row{
+    height: 45px;
+    border: 3px inset darkgray;
+}
+tr.row td{
+    border: 3px inset darkgray;
+}
+td{
+    width: 70px;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    border: none;
+}
+
+.sat{
+    color: red;
+}
+.sun{
+    color: red;
+}
+sub{
+    color: blue;
+}
+body{
+    font-family: Arial;
+    font-weight: 600;
+}

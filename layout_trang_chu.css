@@ -1,0 +1,207 @@
+body{
+    background: #eeeeee;
+    font-family: Arial;
+}
+#head{
+    position: relative;
+    background: #355cff;
+    font-size: 15px;
+    height: 50px;
+    width: 100%;
+    margin-top: 0px;
+}
+#headl1{
+    position: absolute; margin-top: 15px;
+    left: 120px;color: #FFFFFF;
+}
+#headl2{
+    position: absolute; margin-top: 15px;
+    left: 230px;color: #FFFFFF;
+}
+#search{
+    position: absolute; margin-top: 15px;
+    left: 350px;color: #FFFFFF;
+    width: 200px;height: 15px; padding: 4px;border: 1px solid black;
+}
+#go{
+    position: absolute; margin-top: 14px;
+    left: 560px;color: #3c3c3c;
+    width: 32px;height: 25px; padding: 4px;border: 1px solid;
+}
+#headr{
+    position: absolute; margin-top: 15px;
+    right: 100px;color: #FFFFFF;
+}
+#main{
+     margin-left: 8%;
+    margin-right: 8%;
+}
+#main1{
+    height: 330px;
+    width: 60%;
+    float: left;
+    border: 1px ;
+    position:relative;
+    top:0px;
+    background-color: #FFFFFF; z-index: -1;
+}
+#m11{
+    position:absolute;  top:45px; left: 25px;z-index: -1;width: 185px; height: 260px
+}
+#m12{
+    position:absolute;  top:45px; left: 230px;z-index: -1;width: 185px; height: 260px
+}
+#m13{
+    position:absolute;  top:45px; left: 435px;z-index: -1; width: 185px; height: 260px
+}
+
+#right1 {
+    font-size: 15px;
+    height: 330px;
+    width: 38%;
+    float: right;
+    border: 1px ;
+    position: relative;
+    top: 0px;
+    background-color: #FFFFFF; z-index: -1;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+li a {
+     display: block;
+     color: red;
+     text-align: center;
+     padding: 8px;
+     text-decoration: none;
+ }
+#main2{
+    height: 700px;
+    width: 60%;
+    float: left;
+    border: 1px ;
+    position:relative;
+    top:8px;
+    background-color: #FFFFFF; z-index: -1;
+}
+#dt{
+    color: black;
+    list-style-type: none;
+}
+#m21{
+      position:absolute;  top:45px; left: 15px;z-index: -1;width: 150px; height: 260px
+  }
+#m22{
+    position:absolute;  top:45px; left: 180px;z-index: -1;width: 150px; height: 260px
+}
+#m23 {
+    position:absolute;  top:45px; left: 345px;z-index: -1; width: 150px; height: 260px
+}
+#m24 {
+    position:absolute;  top:45px; left: 500px;z-index: -1; width: 150px; height: 260px
+}
+#m25{
+    position:absolute;  top:370px; left: 15px;z-index: -1;width: 150px; height: 260px
+}
+#m26{
+    position:absolute;  top:370px; left: 180px;z-index: -1;width: 150px; height: 260px
+}
+#m27 {
+    position:absolute;  top:370px; left: 345px;z-index: -1; width: 150px; height: 260px
+}
+#m28 {
+    position:absolute;  top:370px; left: 500px;z-index: -1; width: 150px; height: 260px
+}
+
+#right2{
+    font-size: 15px;
+    height: 600px;
+    width: 38%;
+    float: right;
+    border: 1px;
+    position: relative;
+    top: 5px;
+    background-color: #FFFFFF; z-index: -1;
+}
+#ol{
+    color: red;
+    font-weight: bold;
+}
+.tentruyen{
+   float: left;
+    padding-top: 230px;
+}
+.khung{
+    width: 200px;
+    height: 250px;
+
+}
+#right3{
+    font-size: 15px;
+    height: 150px;
+    width: 38%;
+    float: right;
+    border: 1px;
+    position: relative;
+    top: 15px;
+    background-color: #FFFFFF; z-index: -1;
+}
+
+#main3{
+    height: 650px;
+    width: 60%;
+    float: left;
+    border: 1px ;
+    position:relative;
+    top:20px;
+    background-color: #FFFFFF; z-index: -1;
+}
+#m31{
+    position:absolute;  top:45px; left: 15px;z-index: -1;width: 150px; height: 250px
+}
+#m32{
+    position:absolute;  top:45px; left: 180px;z-index: -1;width: 150px; height: 250px
+}
+#m33 {
+    position:absolute;  top:45px; left: 345px;z-index: -1; width: 150px; height: 250px
+}
+#m34 {
+    position:absolute;  top:45px; left: 500px;z-index: -1; width: 150px; height: 250px
+}
+#m35{
+    position:absolute;  top:370px; left: 15px;z-index: -1;width: 150px; height: 250px
+}
+#m36{
+    position:absolute;  top:370px; left: 180px;z-index: -1;width: 150px; height: 250px
+}
+#m37 {
+    position:absolute;  top:370px; left: 345px;z-index: -1; width: 150px; height: 250px
+}
+#m38 {
+    position:absolute;  top:370px; left: 500px;z-index: -1; width: 150px; height: 250px
+}
+
+#footer {
+    background: #a85bff;
+    height: 120px;
+    width: 100%;
+    clear: both;
+    font-family: Arial;
+}
+#footer1{
+    margin-right: 40%;
+    margin-left: 8%;
+    margin-top: 8px;
+
+}
+#footer2{
+    margin-right: 8%;
+    text-align: right;
+}
